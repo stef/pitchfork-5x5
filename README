@@ -10,3 +10,5 @@ Generic License.
 https://creativecommons.org/licenses/by-sa/4.0/
 
 font2bytes.py and font5x5.h are licensed under the GNU GPL v3.0.
+
+font2bytes.py is used to convert a .bmf file into a c-style header file.
