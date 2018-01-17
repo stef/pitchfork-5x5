@@ -1,0 +1,570 @@
+
+|     |
+|     |
+|     |
+|     |
+|     |
+!
+|  x  |
+|  x  |
+|  x  |
+|     |
+|  x  |
+"
+| x x |
+| x x |
+|     |
+|     |
+|     |
+#
+| x x |
+|xxxxx|
+| x x |
+|xxxxx|
+| x x |
+$
+| xxxx|
+|x x  |
+| xxx |
+|  x x|
+|xxxx |
+%
+|xx  x|
+|xx x |
+|  x  |
+| x xx|
+|x  xx|
+&
+|x x  |
+| x   |
+|x x x|
+|x  x |
+| xx x|
+'
+|  x  |
+|  x  |
+|     |
+|     |
+|     |
+(
+|  x  |
+| x   |
+| x   |
+| x   |
+|  x  |
+)
+|  x  |
+|   x |
+|   x |
+|   x |
+|  x  |
+*
+| x x |
+|  x  |
+| x x |
+|     |
+|     |
++
+|  x  |
+|  x  |
+|xxxxx|
+|  x  |
+|  x  |
+,
+|     |
+|     |
+|     |
+|  x  |
+| x   |
+-
+|     |
+|     |
+|xxxxx|
+|     |
+|     |
+.
+|     |
+|     |
+|     |
+| xx  |
+| xx  |
+/
+|    x|
+|   x |
+|  x  |
+| x   |
+|x    |
+0
+| xxx |
+|x   x|
+|x x x|
+|x   x|
+| xxx |
+1
+|  x  |
+| xx  |
+|  x  |
+|  x  |
+| xxx |
+2
+| xxxx|
+|    x|
+| xxxx|
+| x   |
+| xxxx|
+3
+| xxx |
+|    x|
+|  xxx|
+|    x|
+| xxx |
+4
+| x  x|
+| x  x|
+| xxxx|
+|    x|
+|    x|
+5
+| xxxx|
+| x   |
+| xxx |
+|    x|
+| xxx |
+6
+| xxxx|
+| x   |
+| xxxx|
+| x  x|
+| xxxx|
+7
+| xxxx|
+| x  x|
+|   x |
+|  x  |
+|  x  |
+8
+|  xx |
+| x  x|
+|  xx |
+| x  x|
+|  xx |
+9
+|  xx |
+| x  x|
+|  xxx|
+|    x|
+|  xx |
+:
+|     |
+|  x  |
+|     |
+|     |
+|  x  |
+;
+|     |
+|  x  |
+|     |
+| xx  |
+|  x  |
+<
+|   x |
+|  x  |
+| x   |
+|  x  |
+|   x |
+=
+|     |
+| xxxx|
+|     |
+| xxxx|
+|     |
+>
+| x   |
+|  x  |
+|   x |
+|  x  |
+| x   |
+?
+| xxx |
+|    x|
+|  xx |
+|     |
+|  x  |
+@
+| xxx |
+|x   x|
+|x xxx|
+|x    |
+| xx  |
+A
+| xxxx|
+| x  x|
+| xxxx|
+| x  x|
+| x  x|
+B
+| xxx |
+| x  x|
+| xxxx|
+| x  x|
+| xxx |
+C
+|  xx |
+| x  x|
+| x   |
+| x  x|
+|  xx |
+D
+| xxx |
+| x  x|
+| x  x|
+| x  x|
+| xxx |
+E
+| xxxx|
+| x   |
+| xxx |
+| x   |
+| xxxx|
+F
+| xxxx|
+| x   |
+| xxx |
+| x   |
+| x   |
+G
+|  xxx|
+| x   |
+| x xx|
+| x  x|
+|  xxx|
+H
+| x  x|
+| x  x|
+| xxxx|
+| x  x|
+| x  x|
+I
+| xxx |
+|  x  |
+|  x  |
+|  x  |
+| xxx |
+J
+|    x|
+|    x|
+|    x|
+| x  x|
+| xxxx|
+K
+| x  x|
+| x x |
+| xx  |
+| x x |
+| x  x|
+L
+| x   |
+| x   |
+| x   |
+| x   |
+| xxxx|
+M
+|x   x|
+|xx xx|
+|x x x|
+|x x x|
+|x   x|
+N
+| x  x|
+| xx x|
+| xxxx|
+| x xx|
+| x  x|
+O
+|  xx |
+| x  x|
+| x  x|
+| x  x|
+|  xx |
+P
+| xxx |
+| x  x|
+| xxx |
+| x   |
+| x   |
+Q
+|  xx |
+| x  x|
+| xx x|
+| x xx|
+|  xxx|
+R
+| xxx |
+| x  x|
+| xxx |
+| x x |
+| x  x|
+S
+|  xxx|
+| x   |
+|  xx |
+|    x|
+| xxx |
+T
+|xxxxx|
+|  x  |
+|  x  |
+|  x  |
+|  x  |
+U
+| x  x|
+| x  x|
+| x  x|
+| x  x|
+|  xx |
+V
+|x   x|
+|x   x|
+| x x |
+| x x |
+|  x  |
+W
+|x   x|
+|x   x|
+|x x x|
+|x x x|
+| x x |
+X
+|x   x|
+| x x |
+|  x  |
+| x x |
+|x   x|
+Y
+|x   x|
+| x x |
+|  x  |
+|  x  |
+|  x  |
+Z
+| xxxx|
+|   x |
+|  x  |
+| x   |
+| xxxx|
+[
+| xxx |
+| x   |
+| x   |
+| x   |
+| xxx |
+\
+|x    |
+| x   |
+|  x  |
+|   x |
+|    x|
+]
+| xxx |
+|   x |
+|   x |
+|   x |
+| xxx |
+^
+|  x  |
+| x x |
+|     |
+|     |
+|     |
+_
+|     |
+|     |
+|     |
+|     |
+|xxxxx|
+`
+| x   |
+|  x  |
+|     |
+|     |
+|     |
+a
+|     |
+|  xx |
+|    x|
+| xxxx|
+|  xxx|
+b
+| x   |
+| x   |
+| xxx |
+| x  x|
+| xxx |
+c
+|     |
+|  xxx|
+| x   |
+| x   |
+|  xxx|
+d
+|    x|
+|    x|
+|  xxx|
+| x  x|
+|  xxx|
+e
+|     |
+|  xx |
+| xxxx|
+| x   |
+|  xxx|
+f
+|   xx|
+|  x  |
+| xxx |
+|  x  |
+|  x  |
+g
+|     |
+|  xx |
+| x   |
+| x xx|
+|  xx |
+h
+| x   |
+| x   |
+| xxx |
+| x  x|
+| x  x|
+i
+|   x |
+|     |
+| xxx |
+|   x |
+| xxxx|
+j
+|    x|
+|     |
+|    x|
+| x  x|
+| xxxx|
+k
+| x   |
+| x   |
+| x x |
+| xxx |
+| x  x|
+l
+| xx  |
+|  x  |
+|  x  |
+|  x  |
+| xxx |
+m
+|     |
+|xxxx |
+|x x x|
+|x x x|
+|x x x|
+n
+|     |
+| xxx |
+| x  x|
+| x  x|
+| x  x|
+o
+|     |
+|  xx |
+| x  x|
+| x  x|
+|  xx |
+p
+|     |
+| xxx |
+| x  x|
+| xxx |
+| x   |
+q
+|     |
+|  xxx|
+| x  x|
+|  xxx|
+|    x|
+r
+|     |
+|  xxr|
+| x   |
+| x   |
+| x   |
+s
+|     |
+|  xxx|
+| xx  |
+|  xxx|
+| xxx |
+t
+|  x  |
+|  x  |
+| xxx |
+|  x  |
+|   xx|
+u
+|     |
+| x  x|
+| x  x|
+| x  x|
+|  xxx|
+v
+|     |
+| x  x|
+| x  x|
+|  xx |
+|  xx |
+w
+|     |
+|x x x|
+|x x x|
+|x x x|
+| x x |
+x
+|     |
+| x  x|
+|  xx |
+|  xx |
+| x  x|
+y
+|     |
+| x  x|
+|  xx |
+|   x |
+|  xx |
+z
+|     |
+| xxxx|
+|   x |
+|  x  |
+| xxxx|
+{
+|  xxx|
+|  x  |
+| xx  |
+|  x  |
+|  xxx|
+|
+|  x  |
+|  x  |
+|  x  |
+|  x  |
+|  x  |
+}
+| xxx |
+|   x |
+|   xx|
+|   x |
+| xxx |
+~
+| xx  |
+|  xxx|
+|     |
+|     |
+|     |

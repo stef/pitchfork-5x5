@@ -1,0 +1,12 @@
+PITCHFORK-5x5 font (c) 2018, Stefan Marsiske <
+
+Font developed for Nokia 3310 displays (Philips PCD8544) which have a
+resolution of 84x48 pixels allowing 16x8 character display. Contains ASCII
+characters 0x20-0x7e.
+
+pitchfork5x5.bmf is licensed under a Creative Commons Attribution-ShareAlike 4.0
+Generic License.
+
+https://creativecommons.org/licenses/by-sa/4.0/
+
+font2bytes.py and font5x5.h are licensed under the GNU GPL v3.0.
